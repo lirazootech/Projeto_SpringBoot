@@ -3,7 +3,7 @@
 | [![Spring Boot](/assets/img/SpringBoot_SpringInitializr.png)](https://web.dio.me/track/decola-tech-2025) |
 |:--:|
 | Este repositório foi criado para praticar e aplicar os conhecimentos adquiridos durante a Trilha Digital Decola Tech Avanade 2025 sobre “Spring Framework com Spring Boot", abordando os primeiros passos para criação de um projeto Spring Boot.
-O Spring Boot é um Framework que facilita a configuração e o desenvolvimento de aplicações Spring, permitindo que os desenvolvedores se concentrem na lógica de negócios. O Spring Initializr simplifica o processo de criação de novos projetos Spring Boot, eliminando a necessidade de configurar manualmente o projeto desde o início. |
+O Spring Boot é um Framework que facilita a configuração e o desenvolvimento de aplicações Spring, permitindo que os desenvolvedores se concentrem na lógica de negócios. |
 
 ## 🎯 Conceito e abordagem:
 
@@ -14,7 +14,7 @@ O projeto visa consolidar o conhecimento apresentado em sala de aula, praticando
 - Conhecendo a estrutura Spring Boot
 - Bean e CommandLineRunner
 
-## O que é Spring Initializr e Spring Boot?
+## Qual a diferença entre Spring Framework e Spring Boot?
 
 São ferramentas relacionadas ao desenvolvimento de aplicações Java, mas têm propósitos diferentes:
 
@@ -69,6 +69,9 @@ Conhecendo a estrutura spring boot
 Bean e ComandLineRunner
 
 Primeiro localizar o site do Spring Initializr
+
+  O Spring Initializr simplifica o processo de criação de novos projetos Spring Boot, eliminando a necessidade de configurar manualmente o projeto desde o início.
+  
 Fazer as configurações de criação do projeto Maven utilizando JAVA21, a versão do spring boot e o artefato que são as caracteristicas do projeto de acordo com a convenção Maven
 
 Group dio
