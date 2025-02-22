@@ -1,6 +1,6 @@
-# Projeto SpringBoot
+# 🚀 Projeto SpringBoot
 
-| [![Spring Boot](/assets/img/SpringBoot_SpringInitializr.png)](https://web.dio.me/track/decola-tech-2025) |
+| [![Spring Boot](/assets/img/SpringBoot_img.png)](https://web.dio.me/track/decola-tech-2025) |
 |:--:|
 | Este repositório foi criado para praticar e aplicar os conhecimentos adquiridos durante a Trilha Digital Decola Tech Avanade 2025 sobre “Spring Framework com Spring Boot", abordando os primeiros passos para criação de um projeto Spring Boot.
 O Spring Boot é um Framework que facilita a configuração e o desenvolvimento de aplicações Spring, permitindo que os desenvolvedores se concentrem na lógica de negócios. |
@@ -14,7 +14,7 @@ O projeto visa consolidar o conhecimento apresentado em sala de aula, praticando
 - Conhecendo a estrutura Spring Boot
 - Bean e CommandLineRunner
 
-## Qual a diferença entre Spring Framework e Spring Boot?
+## 🤔 Qual a diferença entre Spring Framework e Spring Boot? 🤔
 
 São ferramentas relacionadas ao desenvolvimento de aplicações Java, mas têm propósitos diferentes:
 
@@ -28,7 +28,10 @@ Para realização desse projeto, eu utilizei as seguintes tecnologias:
 
 - **Spring Initializr:** Uma ferramenta online que ajuda a configurar rapidamente um projeto Spring Boot. Permite escolher dependências, definir configurações básicas e gerar um esqueleto de aplicação que pode ser baixado e importado em uma IDE, acelerando o início do desenvolvimento.
 
-- **Spring Boot:** Um framework que simplifica o desenvolvimento de aplicações Spring, fornecendo configuração automática e dependências pré-configuradas. Ele facilita a criação de aplicações robustas e escaláveis com o mínimo de configuração manual. Aqui estão algumas de suas principais funcionalidades:
+- **Spring Boot:** Um framework que simplifica o desenvolvimento de aplicações Spring, fornecendo configuração automática e dependências pré-configuradas. Ele facilita a criação de aplicações robustas e escaláveis com o mínimo de configuração manual.
+
+| ✨Aqui estão algumas de suas principais funcionalidades do Spring Boot: ✨ |
+|:--:|
 
 ### **Configuração Automática:**
 
@@ -52,9 +55,6 @@ Para realização desse projeto, eu utilizei as seguintes tecnologias:
 |:--:|
 São elas: |
 
-
-### **Estrutura Spring Boot:**
-
 - **Bean:** Um componente gerenciado pelo Spring que é instanciado, montado e gerenciado pelo contêiner Spring. Beans são os blocos de construção da aplicação Spring.
 
 - **CommandLineRunner:** Uma interface usada para executar código após a inicialização da aplicação. É útil para executar tarefas de inicialização ou configuração.
@@ -71,7 +71,7 @@ Bean e ComandLineRunner
 Primeiro localizar o site do Spring Initializr
 
   O Spring Initializr simplifica o processo de criação de novos projetos Spring Boot, eliminando a necessidade de configurar manualmente o projeto desde o início.
-  
+
 Fazer as configurações de criação do projeto Maven utilizando JAVA21, a versão do spring boot e o artefato que são as caracteristicas do projeto de acordo com a convenção Maven
 
 Group dio
