@@ -30,7 +30,7 @@ Para realização desse projeto, eu utilizei as seguintes tecnologias:
 
 - **Spring Boot:** Um framework que simplifica o desenvolvimento de aplicações Spring, fornecendo configuração automática e dependências pré-configuradas. Ele facilita a criação de aplicações robustas e escaláveis com o mínimo de configuração manual.
 
-| ✨Aqui estão algumas de suas principais funcionalidades do Spring Boot: ✨ |
+ ✨Aqui estão algumas das principais funcionalidades do Spring Boot: ✨ |
 |:--:|
 
 ### **Configuração Automática:**
