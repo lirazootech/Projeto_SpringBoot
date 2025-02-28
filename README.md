@@ -82,7 +82,7 @@ Fiz as configurações de criação do projeto Maven utilizando JAVA21, a versã
 
 | [![Spring Initializr](/assets/img/Captura_de_tela_initializr2.png)](https://start.spring.io/;) |
 |:--:|
-|
+
 - **3º Daownload, extração e Inicialização**
 
 Após realizar o download do projeto e extrair, usei o VS Code para desenvolver e conhecer melhor a estrutura do projeto.
@@ -99,7 +99,7 @@ E em seguida, de acordo com a convenção inversão de controle e injeção de d
 
 - **5º Iteração usando CommandLineRunner**
 
-  Criei a Classe "MyApp", e implementei o CommandLineRunner com o método **Run**  ou seja, executar.
+Criei a Classe "MyApp", e implementei o CommandLineRunner com o método **Run**  ou seja, executar.
 
 Os objetos, de acordo com os principios de inversão de controle e injeção de dependências, neste contexto serão **Beans**.
 
